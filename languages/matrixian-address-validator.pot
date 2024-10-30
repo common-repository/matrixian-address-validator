@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-19 13:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-matrixian-address-validator-settings.php:45
+msgid "International Address Checker"
+msgstr ""
+
+#: admin/class-matrixian-address-validator-settings.php:65
+msgid "International Address Checker Settings"
+msgstr ""
+
+#: admin/class-matrixian-address-validator-settings.php:67
+msgid "Fill out the API details to enable address validation."
+msgstr ""
+
+#: admin/class-matrixian-address-validator-settings.php:71
+msgid "Address Validation"
+msgstr ""
+
+#: admin/class-matrixian-address-validator-settings.php:73
+msgid "Enables the International Address Checker"
+msgstr ""
+
+#: admin/class-matrixian-address-validator-settings.php:77
+msgid "Username"
+msgstr ""
+
+#: admin/class-matrixian-address-validator-settings.php:79
+msgid "Username for the Matrixian API"
+msgstr ""
+
+#: admin/class-matrixian-address-validator-settings.php:84
+msgid "Password"
+msgstr ""
+
+#: admin/class-matrixian-address-validator-settings.php:86
+msgid "Password for the Matrixian API"
+msgstr ""
+
+#: admin/class-matrixian-address-validator-admin.php:99
+msgid "Settings"
+msgstr ""
+
+#: includes/class-matrixian-address-activator.php:37
+msgid "Sorry, this plugin requires the WooCommerce Plugin to be installed and active."
+msgstr ""
+
+#: includes/class-matrixian-address-activator.php:38
+msgid "Return to Plugins"
+msgstr ""
+
+#: includes/class-matrixian-address-api.php:68
+#: includes/class-matrixian-address-api.php:161
+msgid "You must enable the Matrixian API to validate addresses. Go to WooCommerce -> Advanced -> International Address Checker to enable the API."
+msgstr ""
+
+#: includes/class-matrixian-address-api.php:88
+#: includes/class-matrixian-address-api.php:168
+msgid "Username and/or password for API not set. Go to WooCommerce -> Advanced -> International Address Checker to provide the API credentials."
+msgstr ""
+
+#: includes/class-matrixian-address-api.php:122
+msgid "HTTP Status %1$s encountered while attempting to retrieve an access key. Error (%2$s): %3$s."
+msgstr ""
+
+#: includes/class-matrixian-address-api.php:228
+msgid "HTTP Status %1$s encountered while attempting to validate a given address. Error (%2$s): %3$s."
+msgstr ""
+
+#: public/class-matrixian-address-public.php:97
+msgid "Invalid address type. Only billing and shipping are supported."
+msgstr ""
+
+#: public/class-matrixian-address-public.php:98
+msgid "Suggestions:"
+msgstr ""
+
+#: public/class-matrixian-address-public.php:99
+msgid "-- Select an address --"
+msgstr ""
+
+#: public/class-matrixian-address-public.php:100
+msgid "Address is valid."
+msgstr ""
+
+#: public/class-matrixian-address-public.php:101
+msgid "Address is incomplete. Complete your address or select from given suggestions."
+msgstr ""
+
+#: public/class-matrixian-address-public.php:102
+msgid "Given address does not match with our records. Did you mean:"
+msgstr ""
+
+#: public/class-matrixian-address-public.php:103
+msgid "Please add a house number to your address."
+msgstr ""
+
+#: public/class-matrixian-address-public.php:104
+msgid "Address is invalid."
+msgstr ""
+
+#: public/class-matrixian-address-public.php:105
+msgid "Address could not be validated. Please be sure the given address is valid."
+msgstr ""

@@ -1,0 +1,70 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.woocommerce .field-message {
+    margin-top: 1.41575em;
+}
+.woocommerce .field-message .form-row {
+    margin-top: 0.61575em;
+}
+
+.woocommerce .field-message-success span {
+    color: #0f834d;
+}
+.woocommerce .field-message-success:before {
+    color: #0f834d;
+    content: '\e015';
+    font-family: 'WooCommerce';
+    float: left;
+    margin-right: 10px;
+}
+.woocommerce .field-message-warning span {
+    color: #000;
+}
+.woocommerce .field-message-warning:before {
+    color: #000;
+    content: '\e016';
+    font-family: 'WooCommerce';
+    float: left;
+    margin-right: 10px;
+}
+.woocommerce .field-message-error span {
+    color: #e2401c;
+}
+.woocommerce .field-message-error:before {
+    color: #e2401c;
+    content: '\e013';
+    font-family: 'WooCommerce';
+    float: left;
+    margin-right: 10px;
+}
+
+.woocommerce .field-message #suggestion {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.woocommerce .loading {
+    position: relative;
+}
+
+.woocommerce .loading:before {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: "";
+    -webkit-animation: none;
+    -moz-animation: none;
+    animation: none;
+    background-image: url("../images/wpspin.gif");
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.6);
+    z-index: 999;
+}

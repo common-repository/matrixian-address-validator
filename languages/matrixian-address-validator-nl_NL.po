@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-19 13:20+0000\n"
+"PO-Revision-Date: 2022-04-25 11:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: admin/class-matrixian-address-validator-settings.php:45
+msgid "International Address Checker"
+msgstr "Matrixian Adres Validatie"
+
+#: admin/class-matrixian-address-validator-settings.php:65
+msgid "International Address Checker Settings"
+msgstr "Matrixian Adress Validatie Instellingen"
+
+#: admin/class-matrixian-address-validator-settings.php:67
+msgid "Fill out the API details to enable address validation."
+msgstr "Vul de API-gegevens in om adresvalidatie in te schakelen."
+
+#: admin/class-matrixian-address-validator-settings.php:71
+msgid "Address Validation"
+msgstr "Adresvalidatie"
+
+#: admin/class-matrixian-address-validator-settings.php:73
+msgid "Enables the International Address Checker"
+msgstr "Schakelt de Internationale Adres Validatie in"
+
+#: admin/class-matrixian-address-validator-settings.php:77
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: admin/class-matrixian-address-validator-settings.php:79
+msgid "Username for the Matrixian API"
+msgstr "Gebruikersnaam voor de Matrixian API"
+
+#: admin/class-matrixian-address-validator-settings.php:84
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: admin/class-matrixian-address-validator-settings.php:86
+msgid "Password for the Matrixian API"
+msgstr "Wachtwoord voor de Matrixian API"
+
+#: admin/class-matrixian-address-validator-admin.php:99
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-matrixian-address-activator.php:37
+msgid ""
+"Sorry, this plugin requires the WooCommerce Plugin to be installed and "
+"active."
+msgstr ""
+"Sorry, deze plug-in vereist dat de WooCommerce-plug-in is geïnstalleerd en "
+"actief is."
+
+#: includes/class-matrixian-address-activator.php:38
+msgid "Return to Plugins"
+msgstr "Ga terug naar Plugins"
+
+#: includes/class-matrixian-address-api.php:68
+#: includes/class-matrixian-address-api.php:161
+msgid ""
+"You must enable the Matrixian API to validate addresses. Go to "
+"WooCommerce -> Advanced -> International Address Checker to enable the API."
+msgstr ""
+"U moet de Matrixian API inschakelen om adressen te valideren. Ga naar "
+"WooCommerce -> Geavanceerd -> Internationale Adres Validatie om de API in te "
+"schakelen."
+
+#: includes/class-matrixian-address-api.php:88
+#: includes/class-matrixian-address-api.php:168
+msgid ""
+"Username and/or password for API not set. Go to WooCommerce -> Advanced -> "
+"International Address Checker to provide the API credentials."
+msgstr ""
+"Gebruikersnaam en/of wachtwoord voor API niet ingesteld. Ga naar WooCommerce "
+"-> Geavanceerd -> Internationale Adress Validatie om de API-referenties op te "
+"geven."
+
+#: includes/class-matrixian-address-api.php:122
+msgid ""
+"HTTP Status %1$s encountered while attempting to retrieve an access key. "
+"Error (%2$s): %3$s."
+msgstr ""
+"HTTP-status %1$s aangetroffen tijdens een poging om een toegangssleutel op "
+"te halen. Fout (%2$s): %3$s."
+
+#: includes/class-matrixian-address-api.php:228
+msgid ""
+"HTTP Status %1$s encountered while attempting to validate a given address. "
+"Error (%2$s): %3$s."
+msgstr ""
+"HTTP-status %1$s aangetroffen tijdens een poging om een bepaald adres te "
+"valideren. Fout (%2$s): %3$s."
+
+#: public/class-matrixian-address-public.php:97
+msgid "Invalid address type. Only billing and shipping are supported."
+msgstr ""
+"Ongeldig adrestype. Alleen facturering en verzending worden ondersteund."
+
+#: public/class-matrixian-address-public.php:98
+msgid "Suggestions:"
+msgstr "Suggesties:"
+
+#: public/class-matrixian-address-public.php:99
+msgid "-- Select an address --"
+msgstr "— Selecteer een adres —"
+
+#: public/class-matrixian-address-public.php:100
+msgid "Address is valid."
+msgstr "Adres is geldig."
+
+#: public/class-matrixian-address-public.php:101
+msgid ""
+"Address is incomplete. Complete your address or select from given "
+"suggestions."
+msgstr ""
+"Adres is onvolledig. Vul uw adres in of maak een keuze uit de gegeven "
+"suggesties."
+
+#: public/class-matrixian-address-public.php:102
+msgid "Given address does not match with our records. Did you mean:"
+msgstr "Het opgegeven adres komt niet overeen met onze gegevens. Bedoelde je:"
+
+#: public/class-matrixian-address-public.php:103
+msgid "Please add a house number to your address."
+msgstr "Voeg een huisnummer toe aan uw adres."
+
+#: public/class-matrixian-address-public.php:104
+msgid "Address is invalid."
+msgstr "Adres is ongeldig."
+
+#: public/class-matrixian-address-public.php:105
+msgid ""
+"Address could not be validated. Please be sure the given address is valid."
+msgstr ""
+"Adres kon niet worden gevalideerd. Zorg ervoor dat het opgegeven adres "
+"geldig is."
